@@ -49,7 +49,7 @@ Necesitas tener instalado:
     python sopa_de_letras.py
     ```
 
-5.  **O descarga el exe: **
+5.  **O descarga el exe:**
     ```bash
     sopa_de_letras.exe
     ```
